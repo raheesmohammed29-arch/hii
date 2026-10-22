@@ -1,0 +1,6 @@
+{
+  "name": "FindBack LK — Lost & Found Verification Network",
+  "description": "Sri Lanka's trusted lost and found verification network to report lost belongings, publish found items, verify ownership securely, and coordinate safe returns across all 25 districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
